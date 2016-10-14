@@ -1,2 +1,1 @@
-# OMS.Progect
-Lerning
+Yuzkiv test project
